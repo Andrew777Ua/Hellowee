@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "numbersProtocol.h"
 
 @interface Fraction : NSObject
 
